@@ -8,7 +8,6 @@ import sys
 import os
 
 
-#suck a dick dumb shit
 logging.basicConfig(format="%(asctime)s %(message)s", datefmt="%m/%d/%Y %I:%M:%S %p")
 
 directory = os.getenv("userprofile") + "\\desktop\\wyverndata.db"
